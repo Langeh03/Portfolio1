@@ -1,0 +1,10 @@
+username: niccinchami
+
+passsword: lSHGZU7jx7ZWWEUd
+
+
+mongodb+srv://niccinchami:lSHGZU7jx7ZWWEUd@backendportfolio.3vyna3i.mongodb.net/
+
+
+
+mongodb+srv://niccinchami:lSHGZU7jx7ZWWEUd@backendportfolio.3vyna3i.mongodb.net/?retryWrites=true&w=majority
