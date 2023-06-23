@@ -1,7 +1,7 @@
 require("dotenv").config;
 
 const MONGO_DB_CONFIG ={
-    DB: 'mongodb+srv://langehmohammed7:gWplz6htie2JEWw9@cluster0.x4ktszh.mongodb.net/?retryWrites=true&w=majority'
+    DB: 'mongodb+srv://LangehMohammed:langeh03@backend.5kdaucn.mongodb.net/?retryWrites=true&w=majority'
 }
 
 module.exports ={
